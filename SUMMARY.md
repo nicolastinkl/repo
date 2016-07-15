@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](README.md)
+* [简介](ISREADME.md)
 * [随笔](suibi.md)
    * [加班与效率](a.md)
    * [阅读](readsuibi2.md)
