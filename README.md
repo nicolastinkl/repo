@@ -1,6 +1,17 @@
-repo
-====
+# 简介
 
-gitbook Link your book to a GitHub repository to edit this repository directly from the editor.
+* 个人随笔
 
-update 1.0.1
+* 技术积累/技术点备忘
+
+* 结交新朋友
+
+* 设计感想
+
+* 业余书籍
+
+* 程序分析
+
+* 个人研究
+
+
