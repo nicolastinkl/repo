@@ -10,7 +10,7 @@
    * [余世维语录](yushiwei.md)
    * [Github资源集合](github.md)
    * [出国&学习](go_aborad.md)
-   * [self-request](myself.md)
+   * [自我要求](myself.md)
    * [find you dream list](find_you_dream.md)
    * [perfect match](perfect_match.md)
    * [weibo Technology](weibo_technology.md)
