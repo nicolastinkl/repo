@@ -1,1 +1,8 @@
-{}
+{
+    "plugins": [
+        "chatlog"
+    ],
+    "pluginsConfig": {
+
+    }
+}
