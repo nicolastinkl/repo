@@ -11,7 +11,7 @@
    * [Github资源集合](github.md)
    * [出国&学习](go_aborad.md)
    * [自我要求](myself.md)
-   * [find you dream list](find_you_dream.md)
+   * [梦想清单](find_you_dream.md)
    * [perfect match](perfect_match.md)
    * [weibo Technology](weibo_technology.md)
    * [最好的学习方法](base.md)
