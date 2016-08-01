@@ -44,7 +44,7 @@
         * [Part 2 - Part 40](part_2_-_getting_class_information_of_ios_apps.md)
         * [iOS AssociatedObject 动态关联](ios_associatedobject.md)
         * [Cydia之Theos开发](cydia之theos开发.md)
-        * Cydia之Theos开发
+        * [Cydia之Preference Bundle制作](cydia之preference-bundle制作.md)
     * [iOS Runtime](ios_runtime.md)
         * [Swift Private spec  to github](swift_private_spec__to_github.md)
         * [iOS Private CocoaPods](ios_private_cocoapods.md)
