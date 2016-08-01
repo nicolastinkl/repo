@@ -42,3 +42,21 @@ Mobilesubstrate为了方便tweak开发，提供了三个重要的模块：
 #import <CaptainHook/CaptainHook.h> CHDeclareClass(AnAppClass); CHMethod(1, void, AnAppClass, say, id, arg1) { NSString* tmp=@"Hello, iOS!"; CHSuper(1, AnAppClass, say, tmp); } __attribute__((constructor)) static void entry() { NSLog(@"Hello, Ice And Fire!"); CHLoadLateClass(AnAppClass); CHClassHook(1, AnAppClass,say); }
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
