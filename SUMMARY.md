@@ -35,7 +35,7 @@
        * [taobao 客户端架构](taobao.md)
        * [alipay 客户端架构](alipay.md)
    * [iOS 安全](ios.md)
-       * [cydia](cydia.md)
+       * [Cydia 破解介绍](cydia.md)
        * [GDB依附](gdb.md)
        * [IOS OC代码混淆](ios_oc.md)
        * [IOS Build Settings Varibles](ios_build_settings_varibles.md)
