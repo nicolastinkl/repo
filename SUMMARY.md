@@ -43,7 +43,7 @@
        * [Part 1-setting-up-a-mobile-pentesting-platform](part_1-setting-up-a-mobile-pentesting-platform.md)
        * [Part 2 - Part 40](part_2_-_getting_class_information_of_ios_apps.md)
        * [iOS AssociatedObject 动态关联](ios_associatedobject.md)
-       * Cydia之Preference Bundle制作
+       * [Cydia之Preference Bundle制作](cydiazhi_preference_bundle_zhi_zuo.md)
    * [iOS Runtime](ios_runtime.md)
        * [swift Private spec  to github](swift_private_spec__to_github.md)
        * [iOS Private CocoaPods](ios_private_cocoapods.md)
