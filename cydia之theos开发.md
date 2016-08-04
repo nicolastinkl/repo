@@ -55,14 +55,7 @@ Mobilesubstrate为了方便tweak开发，提供了三个重要的模块：
 3. **动态分析** 有静就有动，万物都是相生相克的，动态分析指的是通过分析app的运行时数据，来定位注入点或者获取关键数据，常用的工具有cycript（运行时控制台）、 lldb+debugserver（远程断点调试）、logify（追踪）
 
 
-
-
-
 微信破解案例：
-
-
-
-
 
 ### 工欲善其事，必先利其器
 
@@ -80,7 +73,8 @@ Mobilesubstrate为了方便tweak开发，提供了三个重要的模块：
 * Hopper Disassembler v3
 * xcode
 * insert\_dylib
-* pp助手
+
+
 
 
 
