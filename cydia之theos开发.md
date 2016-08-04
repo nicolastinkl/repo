@@ -42,10 +42,6 @@ Mobilesubstrate为了方便tweak开发，提供了三个重要的模块：
 #import <CaptainHook/CaptainHook.h> CHDeclareClass(AnAppClass); CHMethod(1, void, AnAppClass, say, id, arg1) { NSString* tmp=@"Hello, iOS!"; CHSuper(1, AnAppClass, say, tmp); } __attribute__((constructor)) static void entry() { NSLog(@"Hello, Ice And Fire!"); CHLoadLateClass(AnAppClass); CHClassHook(1, AnAppClass,say); }
 ```
 
-
-
-
-
 到这里为止，我们已经知道了怎么在目标程序注入自己的代码，那么我们怎么知道需要hook哪些方法？怎么找到关键点进行实际的破解呢？下面讲一下常见的app入侵分析方法
 
 ### iOS逆向分析方法
@@ -57,6 +53,36 @@ Mobilesubstrate为了方便tweak开发，提供了三个重要的模块：
 2. **静态分析** 通过砸壳、反汇编、classdump头文件等技术来分析app行为，通过这种方式可以有效的分析出app实用的一些第三方库，甚至分析出app的架构等内容，常用的工具有dumpdecrypted（砸壳）、hopper disassembler（反汇编）、class\_dump（导头文件）
 
 3. **动态分析** 有静就有动，万物都是相生相克的，动态分析指的是通过分析app的运行时数据，来定位注入点或者获取关键数据，常用的工具有cycript（运行时控制台）、 lldb+debugserver（远程断点调试）、logify（追踪）
+
+
+
+
+
+微信破解案例：
+
+
+
+
+
+### 工欲善其事，必先利其器
+
+一台越狱的手机，并装有以下软件
+
+* cycript
+* dumpdecrypted
+* debug server
+* openssh
+
+一台苹果电脑，并装有以下软件
+
+* class\_dump
+* Theos
+* Hopper Disassembler v3
+* xcode
+* insert\_dylib
+* pp助手
+
+
 
 
 
