@@ -74,23 +74,9 @@ Mobilesubstrate为了方便tweak开发，提供了三个重要的模块：
 * xcode
 * insert\_dylib
 
-
 1. 砸壳（dumpdecrypted.dyld或Clutch暴力砸壳）
 
 2. cycript或者Revaevl检测注入
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
